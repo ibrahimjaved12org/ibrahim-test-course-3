@@ -1,0 +1,33 @@
+{
+  "term": "Summer",
+  "year": "2025",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ibrahim-test-course-3"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ibrahim-test-course-3"
+  },
+  "course_title": "ibrahim-trest-course-3",
+  "course_description": "",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "108",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "ibrahim-test-course-3"
+  },
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "ed3f19d0-12f9-4add-a9ac-d413fc6604a9",
+  "site_short_id": "ibrahim-test-course-3"
+}
